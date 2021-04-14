@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Dropout Rates and Zero Tolerance Policies
 
 # Introduction
 
