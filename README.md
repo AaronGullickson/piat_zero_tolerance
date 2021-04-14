@@ -6,12 +6,13 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+Using data on Oregon school districts in 2013, you will examine the relationship between the high school drop out rate and the rate of school expulsions based on zero tolerance policies. You will also examine whether this relationship varies by whether the school district is an urban area or not. 
+
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the association between the rate of school expulsions based on zero tolerance policies within a school district and the high school dropout rate in that school district?
+2. Is the association between the zero tolerance policy expulsion rate and the high school dropout rate different by the urbanicity of a school district?
 
 ## Technical Details
 
