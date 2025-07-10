@@ -47,11 +47,12 @@ Describe the bivariate association between your key variables, using graphs and 
 #code (e.g. plot, hist, barplot, boxplot) to produce the figure
 ```
 
-Describe the results of the full multivariate regression models. You can use the code chunk template below to place the regression results into a nice format using the texreg package. This code chunk is initially set to not run when this document is rendered. Change `eval: false` to `eval: true` to allow it to run.
+Describe the results of the full multivariate regression models. You can use the code chunk template below to place the regression results into a nice format using the modelsummary package. This code chunk is initially set to not run when this document is rendered. Change `eval: false` to `eval: true` to allow it to run.
 
 ```{r}
 #| label: tbl-model-results
 #| tbl-cap: Put a caption here
+#| eval: false
 
 # IMPORTANT: change eval to true above when you are ready to run
 # this line of code
